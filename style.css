@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(222, 220, 220);
+}
+p {
+    background-color: #34495E;
+    border-radius: 20px;
+    padding: 21px;
+    color: white;
+}
