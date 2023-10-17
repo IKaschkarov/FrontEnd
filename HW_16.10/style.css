@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
+.red {
+    background-color: rgb(207, 56, 56);
+}
+.green {
+    background-color: rgb(57, 192, 57);
+    position: relative;
+    left: 50px;
+    bottom: 150px;
+    z-index: 1;
+    transition: 2s;
+}
+.blue {
+    background-color: rgb(79, 79, 230);
+    position: relative;
+    left: 100px;
+    bottom: 300px;
+}
+.green:hover {
+    transform: scale(1.5) rotate(45deg);
+}
