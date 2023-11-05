@@ -1,0 +1,38 @@
+.red-square {
+    margin: 20px 0;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(214, 66, 66);
+}
+.green-square {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(43, 201, 43) 
+}
+
+.pink-square {
+    margin: 20px 0;
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+}
+.square {
+    margin: 20px 0;
+    width: 150px;
+    height: 150px;
+    background-color: rgb(159, 112, 214);  
+}
+.new-Size {
+    width: 170px;
+    height: 170px;  
+    background-color: rgb(159, 112, 214);
+    margin: 20px 0;
+}
+.size-Up {
+    margin-bottom: 20px;
+}
+.white-text {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
